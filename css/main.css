@@ -64,20 +64,69 @@
 	width: 20%;
 }
 
-
-}
-
 body {
+
+	padding-top: 50px;
+  padding-bottom: 20px;
 	background: url("https://abs.twimg.com/images/themes/theme1/bg.png") #C0DEED no-repeat top center;
 }
 
-.wrapper {
-	display: block;
-	position: relative;
-	width: 837px;
-	height: 100%;
-	background: url(https://abs.twimg.com/a/1389141113/t1/img/wash-white-30.png);
+#container{
+
+	position: absolute;
+	left: 20%;
+	top: 50px;
+	width: 800px;
+	height: 800px;
+	background-color: rgba(255, 255, 255, 0.44);
+
 }
+
+  .twitter-timeline {
+    margin-left: 33%;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
